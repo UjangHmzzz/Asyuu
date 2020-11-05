@@ -1,0 +1,30 @@
+#usr/bin/bash
+clear
+ujanghmzzz1="\33[0;36m" #biru
+ujanghmzzz2="\33[31;1m" #merah
+ujanghmzzz3="\33[37;1m" #putih
+ujanghmzzz4="\33[1;33m" #kuning
+ujanghmzzz5="\33[0;32m" #hijau
+figlet APa Inih | lolcat
+echo $ujanghmzzz3"=========================="
+echo $ujanghmzzz4"Nama : "$ujanghmzzz3"Ujang"
+echo $ujanghmzzz4"YouTube : "$ujanghmzzz3"Ujang Hmzzz"
+echo $ujanghmzzz4"Instagram : "$ujanghmzzz3"@ujanghmzzz"
+echo $ujanghmzzz3"=========================="
+echo ""
+echo ""$ujanghmzzz2"["$ujanghmzzz3"1"$ujanghmzzz2"] "$ujanghmzzz5"Spam Telepon"
+echo ""$ujanghmzzz2"["$ujanghmzzz3"2"$ujanghmzzz2"] "$ujanghmzzz5"Spam SMS"
+echo ""
+   read -p $ujanghmzzz5"Masukan Pilihan "$ujanghmzzz2" (1/2)"$ujanghmzzz4": " memek
+   
+   #UjangHmzzz
+   if [ $memek = 1 ]
+   then
+   echo "Mantabbb"
+   fi
+   #UjangHmzzz
+   if [ $memek = 2 ]
+   then
+   echo "Byeeee BosQue"
+   exit
+   fi
