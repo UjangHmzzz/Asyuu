@@ -15,7 +15,7 @@ echo ""
 echo ""$ujanghmzzz2"["$ujanghmzzz3"1"$ujanghmzzz2"] "$ujanghmzzz5"Spam Telepon"
 echo ""$ujanghmzzz2"["$ujanghmzzz3"2"$ujanghmzzz2"] "$ujanghmzzz5"Spam SMS"
 echo ""
-   read -p $ujanghmzzz5"Masukan Pilihan "$ujanghmzzz2" (1/2)"$ujanghmzzz4": " memek
+   read -p ""$ujanghmzzz4" Masukan Pilihan "$ujanghmzzz2" (1/2)"$ujanghmzzz4": " memek
    
    #UjangHmzzz
    if [ $memek = 1 ]
