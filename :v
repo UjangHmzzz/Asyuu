@@ -13,11 +13,14 @@ echo ""
 #UjangHmzzz
 if [ $memek = 1 ]
 then
-echo "Mantapp"
+read -p "Masukan No Target : " kontoll
+link="https://id.jagreward.com/member/verify-mobile/$kontoll"
+curl -s $link
 fi
 #UjangHmzzz
 if [ $memek = 2 ]
 then
+clear
 echo "Byeeeeee"
 exit
 fi
