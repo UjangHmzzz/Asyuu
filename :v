@@ -7,9 +7,9 @@ ujanghmzzz4="\33[1;33m" #kuning
 ujanghmzzz5="\33[0;32m" #hijau
 figlet APa Inih | lolcat
 echo $ujanghmzzz3"=========================="
-echo $ujanghmzzz4"Nama : "$ujanghmzzz3"Ujang"
-echo $ujanghmzzz4"YouTube : "$ujanghmzzz3"Ujang Hmzzz"
-echo $ujanghmzzz4"Instagram : "$ujanghmzzz3"@ujanghmzzz"
+echo $ujanghmzzz4"Nama : "$ujanghmzzz5"Ujang"
+echo $ujanghmzzz4"YouTube : "$ujanghmzzz5"Ujang Hmzzz"
+echo $ujanghmzzz4"Instagram : "$ujanghmzzz5"@ujanghmzzz"
 echo $ujanghmzzz3"=========================="
 echo ""
 echo ""$ujanghmzzz2"["$ujanghmzzz3"1"$ujanghmzzz2"] "$ujanghmzzz4"Spam Telepon"
