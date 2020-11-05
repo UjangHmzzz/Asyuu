@@ -1,0 +1,23 @@
+#usr/bin/bash
+clear
+echo "==========================="
+echo "Creator : Ujang"
+echo "YouTube : Ujang Hmzzz"
+echo "==========================="
+echo ""
+echo "[1] Spam TELEPON"
+echo "[2] Spam SMS"
+echo ""
+   read -p "Masukan Pilihan (1/2): " memek
+
+#UjangHmzzz
+if [ $memek = 1 ]
+then
+echo "Mantapp"
+fi
+#UjangHmzzz
+if [ $memek = 2 ]
+then
+echo "Byeeeeee"
+exit
+fi
